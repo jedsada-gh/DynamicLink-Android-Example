@@ -1,0 +1,177 @@
+{
+  "project_info": {
+    "project_number": "608155068293",
+    "firebase_url": "https://fir-demo-6e591.firebaseio.com",
+    "project_id": "fir-demo-6e591",
+    "storage_bucket": "fir-demo-6e591.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608155068293:android:209107443bb2e186",
+        "android_client_info": {
+          "package_name": "com.wisdomlanna.www.hastagchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608155068293-0b5sfkp8k6fs3ufms04tbsvrtd8lk75a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wisdomlanna.www.hastagchat",
+            "certificate_hash": "175b00aa8beab0fc3644e3b0ea603920dd05d5cf"
+          }
+        },
+        {
+          "client_id": "608155068293-7j7pcjddpjp8fa9dt123b5k8l20ir9m2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wisdomlanna.www.hastagchat",
+            "certificate_hash": "346604bb3793d7d5ab536f65ac2b46a2a3ae9c73"
+          }
+        },
+        {
+          "client_id": "608155068293-6tkckaujq7qm42i84bem791g7qjb9bm4.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "608155068293-j3otpj1e5uuno9qm7723l1o0h7btkqmf.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "608155068293-lehb8srn0uknssgpp2j8egipenslq9hb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wisdomlanna.www.hastagchat",
+            "certificate_hash": "376067c493d01249e6cf3396cd7dede9eba8d12d"
+          }
+        },
+        {
+          "client_id": "608155068293-694enlgu469r89t36637vb40tbkig1r4.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "608155068293-mk0tao9ghqop76sfahh4jjhartcqk795.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "608155068293-na2an9oesvudtjdj3o0pjm1cbm39dvct.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "608155068293-1mjs3e0spokd3s5b7kt0fkad17kthg8a.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "608155068293-dac9ba0uch9p5gh59e1cgin5aphj4dop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNhVCTVp3CuLCUWsZUJh2vqWfsr-t9WMg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608155068293-j2fsel81fguc7bqkblbamecla7dbc8cr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pppc.ChatDemo"
+              }
+            },
+            {
+              "client_id": "608155068293-6tkckaujq7qm42i84bem791g7qjb9bm4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608155068293:android:89216208bb574010",
+        "android_client_info": {
+          "package_name": "com.pondthaitay.deeplink_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608155068293-c302uu3irkfdj9tc5qhqsd41nfs0kakc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pondthaitay.deeplink_example",
+            "certificate_hash": "175b00aa8beab0fc3644e3b0ea603920dd05d5cf"
+          }
+        },
+        {
+          "client_id": "608155068293-6tkckaujq7qm42i84bem791g7qjb9bm4.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "608155068293-j3otpj1e5uuno9qm7723l1o0h7btkqmf.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "608155068293-694enlgu469r89t36637vb40tbkig1r4.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "608155068293-mk0tao9ghqop76sfahh4jjhartcqk795.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "608155068293-na2an9oesvudtjdj3o0pjm1cbm39dvct.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "608155068293-1mjs3e0spokd3s5b7kt0fkad17kthg8a.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "608155068293-dac9ba0uch9p5gh59e1cgin5aphj4dop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNhVCTVp3CuLCUWsZUJh2vqWfsr-t9WMg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608155068293-j2fsel81fguc7bqkblbamecla7dbc8cr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pppc.ChatDemo"
+              }
+            },
+            {
+              "client_id": "608155068293-6tkckaujq7qm42i84bem791g7qjb9bm4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

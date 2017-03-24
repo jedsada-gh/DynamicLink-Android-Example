@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DeepLink-Example</string>
+    <string name="hello_main_activity">Hello Main Activity</string>
+    <string name="hello_detail_activity">Hello Detail Activity</string>
+</resources>
